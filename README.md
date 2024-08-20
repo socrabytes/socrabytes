@@ -1,4 +1,4 @@
-# <img src="assets/Hi.gif" width="40px"> Welcome to [SocraBytes](https://github.com/socrabytes) | <img src="assets/developer.gif" width="50px"> by [Socrates](https://socrabytes.github.io/)
+# <img src="assets/Hi.gif" width="40px"> Welcome to [SocraBytes](https://github.com/socrabytes) | by [Socrates](https://socrabytes.github.io/) <img src="assets/developer.gif" width="50px">
 
 
 ## Hi there <img src="assets/Hi.gif" width="5%">
