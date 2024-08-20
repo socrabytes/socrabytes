@@ -1,3 +1,5 @@
+# ![Waving Hand](assets/Hi.gif) Welcome to [SocraBytes](https://github.com/socrabytes) – ![Developer](assets/developer.gif) by [Socrates](https://socrabytes.github.io/)
+
 ## Hi there <img src="assets/Hi.gif" width="5%">
 
 <!--
