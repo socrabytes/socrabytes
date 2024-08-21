@@ -1,5 +1,25 @@
 # <img src="assets/Hi.gif" width="40px"> Hi, I'm [**Socrates**](https://socrabytes.github.io/) <img src="assets/developer.gif" width="40px">
 
+<!-- Social badges section -->
+
+<p align="center">
+  <a href="https://socrabytes.github.io">
+    <img alt="Website Live" title="Visit my website" src="https://custom-icon-badges.demolab.com/website?url=https%3A%2F%2Fsocrabytes.github.io&up_message=Live&down_color=e1e7ec&style=for-the-badge&logo=globe&logoSize=auto&labelColor=3caea3&color=a8eec1&link=https%3A%2F%2Fsocrabytes.github.io%2F"/>
+  </a>
+   <a href="https://github.com/socrabytes?tab=followers">
+    <img alt="GitHub Followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/socrabytes?style=for-the-badge&logo=user-plus&logoSource=feather&logoSize=auto&label=Follow&labelColor=6175de&color=d4def8&link=https%3A%2F%2Fgithub.com%2Fsocrabytes%3Ftab%3Dfollowers"/>
+  </a>
+  <a href="https://github.com/socrabytes?tab=repositories&sort=stargazers">
+    <img alt="Total stars across all repositories" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/socrabytes?style=for-the-badge&logo=stars&logoSize=auto&labelColor=f4ca64&color=fdf3d7&link=https%3A%2F%2Fgithub.com%2Fsocrabytes%3Ftab%3Drepositories%26sort%3Dstargazers"/>
+  </a>
+  <a href="https://github.com/socrabytes">
+    <img src="https://komarev.com/ghpvc/?username=socrabytes&color=cfd6de&style=for-the-badge&label=VIEWS&abbreviated=true" alt="Profile views"/>
+  </a>
+  <a href="https://www.linkedin.com/in/socrateslopez/">
+    <img alt="LinkedIn" title="Connect with me on LinkedIn" src="https://img.shields.io/badge/Linked_In-socrateslopez-blue?style=for-the-badge&logo=LinkedIn&logoSize=auto&labelColor=3183c8&color=eff8ff&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsocrateslopez%2F"/>
+  </a>
+</p>
+
 ### Building scalable systems & diving into the latest tech, one ☕ at a time...
 
 - 🔭 I’m currently working on ...
