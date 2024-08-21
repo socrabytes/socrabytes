@@ -12,8 +12,7 @@
   <a href="https://github.com/socrabytes">
     <img alt="Profile views" title="Total Profile Views" src="https://komarev.com/ghpvc/?username=socrabytes&color=b0b0b0&style=plastic&label=VIEWS&abbreviated=true"/></a>
   <a href="https://www.linkedin.com/in/socrateslopez/">
-    <img alt="LinkedIn" title="Connect with me on LinkedIn" src="https://img.shields.io/badge/%2Fsocrateslopez-blue?style=plastic&logo=linkedin&logoColor=white&logoSize=auto&labelColor=3183c8&color=3183c8&link=%22https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsocrateslopez%2F%22
-    "/></a>
+    <img alt="LinkedIn" title="Connect with me on LinkedIn" src="https://img.shields.io/badge/%2Fsocrateslopez-blue?style=plastic&logo=linkedin&logoSize=auto&labelColor=3183c8&color=3183c8&link=%22https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsocrateslopez%2F%22"/></a>
 </p>
 
 ### Building scalable systems & diving into the latest tech, one ☕ at a time...
