@@ -19,43 +19,24 @@
 
 ```python
 #!/usr/bin/env python3
-
 class DevOpsEngineer:
     def __init__(self):
         self.name = "Socrates Lopez"
         self.role = "DevOps Engineer"
-        self.skills = ["Docker", "Kubernetes", "Terraform", "CI/CD Pipelines"]
-        self.cloud_platforms = ["AWS", "Azure"]
+        self.skills = ["Python", "Docker", "Kubernetes", "Terraform", "CI/CD Pipelines"]
 
-    def introduce(self):
-        print(f"👋 Hi, I'm {self.name}, a {self.role} with a passion for technology.")
-        print("I build scalable systems and dive into the latest tech, one ☕ at a time.")
-        print(f"My toolkit: {', '.join(self.skills)} 🛠️")
-        print(f"I work extensively with cloud platforms like {', '.join(self.cloud_platforms)} ☁️.")
-
-    def share_passion(self):
-        print("What drives me? The thrill of automating processes and optimizing systems to run smoother than a freshly brewed espresso ☕.")
-
-    def assess_project_fit(self, project_needs):
-        relevant_skills = [skill for skill in self.skills if skill in project_needs]
-        if relevant_skills:
-            print(f"Perfect match! I can bring these skills to your project: {', '.join(relevant_skills)}.")
-        else:
-            print("I'm excited to learn and adapt. Let's tackle this project together! 🚀")
+    def say_hi(self):
+        print("👋 Hello, and thanks for checking out my profile.")
+        print(f"I specialize in cloud infrastructure and automation using tools 🛠️ like {', '.join(self.skills)}.")
+        print("If your 👀 have made it this far, let me know by hitting that ⭐ button!")
 
     def invite_collaboration(self):
-        print("Think we’d make a great team? Let’s connect 🤝 and build something awesome together!")
-
-    def ask_socrates(self):
-        print("💡 As the philosopher Socrates once said, 'The only true wisdom is in knowing you know nothing.' But hey, I'm here to learn and grow every day!")
+        print("I’m always open to collaboration. Let’s connect 🤝 and build something great together!")
 
 # Instantiate the DevOpsEngineer class and call its methods
 if __name__ == "__main__":
     socrates = DevOpsEngineer()
-    socrates.introduce()
-    socrates.share_passion()
-    socrates.assess_project_fit("CI/CD, Terraform")  # Example of project needs
-    socrates.ask_socrates()  # A touch of humor with a Socratic quote
+    socrates.say_hi()
     socrates.invite_collaboration()
 ```
 
