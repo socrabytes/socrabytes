@@ -6,7 +6,7 @@
   <a href="https://socrabytes.github.io">
     <img alt="Website Live" title="Visit my website" src="https://custom-icon-badges.demolab.com/website?url=https%3A%2F%2Fsocrabytes.github.io&up_message=Live&down_color=e1e7ec&style=plastic&logo=globe&logoSize=auto&labelColor=3caea3&color=a8eec1&link=https%3A%2F%2Fsocrabytes.github.io%2F"/></a>
   <a href="https://github.com/socrabytes?tab=followers">
-    <img alt="GitHub Followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/socrabytes?style=flatplastic&logo=user-plus&logoSource=feather&logoSize=auto&label=Follow&labelColor=6175de&color=d4def8&link=https%3A%2F%2Fgithub.com%2Fsocrabytes%3Ftab%3Dfollowers"/></a>
+    <img alt="GitHub Followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/socrabytes?style=plastic&logo=user-plus&logoSource=feather&logoSize=auto&label=Follow&labelColor=6175de&color=d4def8&link=https%3A%2F%2Fgithub.com%2Fsocrabytes%3Ftab%3Dfollowers"/></a>
   <a href="https://github.com/socrabytes?tab=repositories&sort=stargazers">
     <img alt="Total stars across all repositories" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/socrabytes?style=plastic&logo=stars&logoSize=auto&logoColor=fdf3d7&labelColor=f4ca64&color=fdf3d7&link=https%3A%2F%2Fgithub.com%2Fsocrabytes%3Ftab%3Drepositories%26sort%3Dstargazers"/></a>
   <a href="https://github.com/socrabytes">
@@ -40,6 +40,8 @@ if __name__ == "__main__":
     socrates.invite_collaboration()
 ```
 
+<!-- Languages & Tools -->
+
 ## <img src="assets/developer.gif" width="40px"> Languages and Tools
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
@@ -57,6 +59,10 @@ if __name__ == "__main__":
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
 <img align="left" alt="YAML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yaml/yaml-original.svg"/>
 
+<br clear="left"/>
+
+<!-- 3D-Contribution Graph -->
+![3D GitHub Contributions](profile-3d-contrib/profile-green-animate.svg)
 
 <!--
 **socrabytes/socrabytes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
