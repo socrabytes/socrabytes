@@ -65,6 +65,14 @@ if __name__ == "__main__":
 <!-- 3D-Contribution Graph -->
 ![3D GitHub Contributions](/profile-3d-contrib/profile-green-animate.svg)
 
+<!-- GitHub Snake Game -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
+  <img alt="github-snake" src="dist/github-snake.svg" />
+</picture>
+
+
 <!--
 **socrabytes/socrabytes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
