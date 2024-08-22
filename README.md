@@ -63,7 +63,11 @@ if __name__ == "__main__":
 <br clear="left"/>
 
 <!-- 3D-Contribution Graph -->
-![3D GitHub Contributions](/profile-3d-contrib/profile-green-animate.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="/profile-3d-contrib/profile-night-green.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="/profile-3d-contrib/profile-green-animate.svg" />
+  <img alt="3D GitHub Contributions" src="/profile-3d-contrib/profile-green-animate.svg" />
+</picture>
 
 <!-- GitHub Snake Game -->
 <picture>
