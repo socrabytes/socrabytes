@@ -69,10 +69,17 @@ if __name__ == "__main__":
   <img alt="3D GitHub Contributions" src="./profile-3d-contrib/profile-green-animate.svg" />
 </picture>
 
+<!-- GitHub Snake Game -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
+  <img alt="github-snake" src="dist/github-snake.svg" />
+</picture>
+
 <!-- GitHub Streak Counter and Language Distribution (Public) Table -->
-<table border="0" style="margin-bottom: 0;">
-  <tr>
-    <td>
+<table style="border: none; margin-bottom: 0;">
+  <tr style="border: none;">
+    <td style="border: none;">
       <!-- GitHub Streak Counter -->
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=socrabytes&theme=vue-dark&hide_border=true&bg_color=00000000" />
@@ -91,12 +98,7 @@ if __name__ == "__main__":
   </tr>
 </table>
 
-<!-- GitHub Snake Game -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
-  <img alt="github-snake" src="dist/github-snake.svg" />
-</picture>
+
 
 
 <!--
