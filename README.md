@@ -4,12 +4,12 @@
 
 Welcome to my GitHub profile! Here’s a snapshot of what I’m working on and what drives me professionally and personally.
 
-🔭 **What I'm Working On:**
-- **Optimizing Workflows:** Continuously refining *CI/CD pipelines* and enhancing *container orchestration* to drive efficiency and reliability in my projects.
+- 🔭 **What I'm Working On:**
+  - **Optimizing Workflows:** Continuously refining *CI/CD pipelines* and enhancing *container orchestration* to drive efficiency and reliability in my projects.
 
-🌱 **What I’m Exploring:**
-- **Expanding My Home Lab:** Experimenting with *NAS setups* and exploring hardware options for running *Kubernetes clusters* at home.
-- **Exploring AI with LLMs:** Building the infrastructure needed to run and fine-tune large language models using GPUs, integrating advanced AI capabilities into my personal tech stack.
+- 🌱 **What I’m Exploring:**
+  - **Expanding My Home Lab:** Experimenting with *NAS setups* and exploring hardware options for running *Kubernetes clusters* at home.
+  - **Exploring AI with LLMs:** Building the infrastructure needed to run and fine-tune large language models using GPUs, integrating advanced AI capabilities into my personal tech stack.
 
 🖥️ **Beyond Work:** I enjoy 🚴‍♂️ cycling, ☕ quality coffee, and staying updated on tech trends. Always on the lookout for the next challenge.
 
