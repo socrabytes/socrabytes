@@ -64,10 +64,28 @@ if __name__ == "__main__":
 
 <!-- 3D-Contribution Graph -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/profile-3d-contrib/profile-night-green.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="/profile-3d-contrib/profile-green-animate.svg" />
-  <img alt="3D GitHub Contributions" src="/profile-3d-contrib/profile-green-animate.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg" />
+  <img alt="3D GitHub Contributions" src="./profile-3d-contrib/profile-green-animate.svg" />
 </picture>
+
+<!-- GitHub Streak Counter and Language Distribution (Public) Card Row -->
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <!-- GitHub Streak Counter -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=socrabytes&theme=whatsapp-dark2&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=socrabytes&theme=whatsapp-light&hide_border=true" />
+    <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=socrabytes&theme=whatsapp-light&hide_border=true" />
+  </picture>
+
+  <!-- Language Distribution (Public) Card -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=socrabytes&layout=compact&theme=chartreuse-dark&custom_title=Language%20Distribution%20(Public)&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=socrabytes&layout=compact&theme=shadow_green&custom_title=Language%20Distribution%20(Public)&hide_border=true" />
+    <img alt="Language Distribution (Public)" src="https://github-readme-stats.vercel.app/api/top-langs/?username=socrabytes&layout=compact&theme=shadow_green&custom_title=Language%20Distribution%20(Public)&hide_border=true" />
+  </picture>
+</div>
+
 
 <!-- GitHub Snake Game -->
 <picture>
