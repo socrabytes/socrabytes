@@ -69,22 +69,27 @@ if __name__ == "__main__":
   <img alt="3D GitHub Contributions" src="./profile-3d-contrib/profile-green-animate.svg" />
 </picture>
 
-<!-- GitHub Streak Counter and Language Distribution (Public) Card Row -->
-<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; margin-bottom: 0;">
-  <!-- GitHub Streak Counter -->
-  <picture style="flex-grow: 1; flex-basis: 0; margin: 0;">
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=socrabytes&theme=vue-dark&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=socrabytes&theme=vue&hide_border=true" />
-    <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=socrabytes&theme=vue&hide_border=true" style="width: 100%;" />
-  </picture>
-
-  <!-- Language Distribution (Public) Card -->
-  <picture style="flex-grow: 1; flex-basis: 0; margin: 0;">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=socrabytes&layout=compact&theme=vue-dark&custom_title=Language%20Distribution%20(Public)&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=socrabytes&layout=compact&theme=vue&custom_title=Language%20Distribution%20(Public)&hide_border=true" />
-    <img alt="Language Distribution (Public)" src="https://github-readme-stats.vercel.app/api/top-langs/?username=socrabytes&layout=compact&theme=vue&custom_title=Language%20Distribution%20(Public)&hide_border=true" style="width: 100%;" />
-  </picture>
-</div>
+<!-- GitHub Streak Counter and Language Distribution (Public) Table -->
+<table>
+  <tr>
+    <td>
+      <!-- GitHub Streak Counter -->
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=socrabytes&theme=vue-dark&hide_border=true&bg_color=00000000" />
+        <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=socrabytes&theme=vue&hide_border=true" />
+        <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=socrabytes&theme=vue&hide_border=true" />
+      </picture>
+    </td>
+    <td>
+      <!-- Language Distribution (Public) Card -->
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=socrabytes&layout=compact&theme=vue-dark&custom_title=Language%20Distribution%20(Public)&hide_border=true&bg_color=00000000" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=socrabytes&layout=compact&theme=vue&custom_title=Language%20Distribution%20(Public)&hide_border=true" />
+        <img alt="Language Distribution (Public)" src="https://github-readme-stats.vercel.app/api/top-langs/?username=socrabytes&layout=compact&theme=vue&custom_title=Language%20Distribution%20(Public)&hide_border=true" />
+      </picture>
+    </td>
+  </tr>
+</table>
 
 <!-- GitHub Snake Game -->
 <picture>
