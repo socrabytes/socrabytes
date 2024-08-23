@@ -1,5 +1,17 @@
 # <img src="assets/Hi.gif" width="40px"> Hi, I'm [**Socrates**](https://socrabytes.github.io/) 
 
+🚀 **DevOps Engineer | ☁️ Cloud Enthusiast | ⚙️ Automation Aficionado**
+
+I’m a DevOps Engineer with a passion for building resilient and scalable systems. My expertise lies in transforming complex infrastructure challenges into streamlined, automated solutions using tools like **Kubernetes**, **Ansible**, and **Terraform**.
+
+🔍 **Projects & Interests:**
+- **Optimizing Workflows:** Continuously refining *CI/CD pipelines* and enhancing *container orchestration* to drive efficiency and reliability in my projects.
+- **Expanding My Home Lab:** Experimenting with *NAS setups* and exploring hardware options for running *Kubernetes clusters* at home. 
+- **Exploring AI with LLMs:** Building the infrastructure needed to run and fine-tune large language models using GPUs, integrating advanced AI capabilities into my personal tech stack.
+
+🚴‍♂️ **Beyond Work:** When I’m not working, I enjoy cycling, brewing quality coffee, and staying on top of the latest tech trends. I’m always looking for the next challenge to take on, both professionally and personally.
+
+💬 **Let's Connect:** Whether you want to discuss DevOps, home labs, AI, or just share a coffee or cycling tip, feel free to reach out. Let’s collaborate and create something impactful together!
 <!-- Code Snippet Intro -->
 
 ```python
