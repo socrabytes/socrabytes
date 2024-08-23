@@ -70,7 +70,7 @@ if __name__ == "__main__":
 </picture>
 
 <!-- GitHub Streak Counter and Language Distribution (Public) Table -->
-<table>
+<table border="0" style="margin-bottom: 0;">
   <tr>
     <td>
       <!-- GitHub Streak Counter -->
