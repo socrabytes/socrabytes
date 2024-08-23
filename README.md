@@ -77,9 +77,9 @@ if __name__ == "__main__":
 </picture>
 
 <!-- GitHub Streak Counter and Language Distribution (Public) Table -->
-<table style="border: none; margin-bottom: 0;">
+<table style="border-collapse: collapse; margin-bottom: 0;">
   <tr style="border: none;">
-    <td style="border: none;">
+    <td style="border: 1px solid transparent; border-radius: 8px;">
       <!-- GitHub Streak Counter -->
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=socrabytes&theme=vue-dark&hide_border=true&bg_color=00000000" />
