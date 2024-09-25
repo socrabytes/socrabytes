@@ -34,5 +34,6 @@ jobs:
             git push  # Push the changes to the repository
           else
             echo "No changes detected."  # If no changes are found, output a message
+          fi
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
