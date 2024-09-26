@@ -75,6 +75,8 @@ if __name__ == "__main__":
 
 <br clear="left"/>
 
+## 📊 Stats and Contributions
+
 <!-- 3D-Contribution Graph -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg" />
