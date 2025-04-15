@@ -1,41 +1,30 @@
 # <img src="assets/Hi.gif" width="40px"> Hi, I'm [**Socrates**](https://socrabytes.github.io/) 
 
-`🚀 DevOps Engineer | ☁️ Cloud Enthusiast | ⚙️ Automation Aficionado`
+`🛠️ Systems-minded Engineer | ☁️ Cloud-Native Thinker | 🧠 Infra-Aware AI Builder`
 
-Welcome to my GitHub profile! Here’s a snapshot of what I’m working on and what drives me professionally and personally.
+I build automated systems, scale cloud-native infrastructure, and connect DevOps to AI-driven workflows.
 
-- 🔭 **What I'm Working On:**
-  - **Optimizing Workflows:** Continuously refining *CI/CD pipelines* and enhancing *container orchestration* to drive efficiency and reliability in my projects.
+- 🔭 **Current Focus:**
+  - Improving resilience and performance in *CI/CD pipelines* and *Kubernetes deployments*
+  - Integrating LLMs into container-native workflows using background task queues and API orchestration
 
-- 🌱 **What I’m Exploring:**
-  - **Expanding My Home Lab:** Experimenting with *NAS setups* and exploring hardware options for running *Kubernetes clusters* at home.
-  - **Exploring AI with LLMs:** Building the infrastructure needed to run and fine-tune large language models using GPUs, integrating advanced AI capabilities into my personal tech stack.
+- 🚧 **Actively Experimenting With:**
+  - Home lab architecture (Proxmox + Kubernetes on mini-PCs)
+  - Local LLM inference, GPU tuning, and vector database workflows
+  - Evolving *YouTube Digest* into a multi-user platform with authentication and dashboarding
 
-🖥️ **Beyond Work:** I enjoy 🚴‍♂️ cycling, ☕ quality coffee, and staying updated on tech trends. Always on the lookout for the next challenge.
-
-<!-- Code Snippet Intro -->
+🖥️ **Beyond Code:** 🚴‍♂️ Cycling enthusiast, ☕ Coffee aficionado, and passionate about exploring emerging tech trends.
 
 ```python
-#!/usr/bin/env python3
-class DevOpsEngineer:
-    def __init__(self):
-        self.name = "Socrates Lopez"
-        self.role = "DevOps Engineer"
-        self.skills = ["Python", "Docker", "Kubernetes", "Terraform", "CI/CD Pipelines"]
+def greet():
+    """Simple is better than complex. - The Zen of Python"""
+    name = "Socrates Lopez"
+    print(f"👋 Hi, I'm {name}!")
+    print("I design, build, and automate.")
+    print("Let's connect!")
 
-    def say_hi(self):
-        print("👋 Hello, and thanks for checking out my profile.")
-        print(f"I specialize in cloud infrastructure and automation using tools 🛠️ like {', '.join(self.skills)}.")
-        print("If your 👀 have made it this far, let me know by hitting that ⭐ button!")
-
-    def invite_collaboration(self):
-        print("I’m always open to collaboration. Let’s connect 🤝 and build something great together!")
-
-# Instantiate the DevOpsEngineer class and call its methods
-if __name__ == "__main__":
-    socrates = DevOpsEngineer()
-    socrates.say_hi()
-    socrates.invite_collaboration()
+# Elegance in simplicity
+greet()
 ```
 
 <!-- Social badges section -->
@@ -53,27 +42,85 @@ if __name__ == "__main__":
     <img alt="LinkedIn" title="Connect with me on LinkedIn" src="https://img.shields.io/badge/%2Fsocrateslopez-blue?style=plastic&logo=linkedin&logoSize=auto&labelColor=3183c8&color=3183c8&link=%22https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsocrateslopez%2F%22"/></a>
 </p>
 
-
 <!-- Languages & Tools -->
 
 ## <img src="assets/developer.gif" width="40px"> Languages and Tools
 
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
-<img align="left" alt="Jenkins" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg"/>
+### Infrastructure & DevOps:
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
-<img align="left" alt="Terraform" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg"/>
 <img align="left" alt="Kubernetes" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"/>
+<img align="left" alt="Terraform" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg"/>
 <img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
 <img align="left" alt="Ansible" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg"/>
+<img align="left" alt="Jenkins" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg"/>
+
+<br clear="left"/>
+
+### Languages & Frameworks:
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img align="left" alt="FastAPI" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"/>
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+<img align="left" alt="Next.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>
+
+<br clear="left"/>
+
+### Data & Monitoring:
+<img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+<img align="left" alt="DBeaver" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg"/>
 <img align="left" alt="Prometheus" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg"/>
 <img align="left" alt="Grafana" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg"/>
+
+<br clear="left"/>
+
+### Tools & Platforms:
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
 <img align="left" alt="YAML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yaml/yaml-original.svg"/>
+<img align="left" alt="Hugo" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hugo/hugo-original.svg"/>
 
 <br clear="left"/>
+
+<!-- Featured Projects -->
+
+## 🚀 Featured Projects
+
+### 🎬 [YouTube Digest](https://github.com/socrabytes/youtube-digest)
+
+*A full-stack AI-driven summarizer for YouTube videos.*
+
+[![Code](https://img.shields.io/badge/GitHub-Repo-blue?style=flat&logo=github)](https://github.com/socrabytes/youtube-digest) ![Last Commit](https://img.shields.io/github/last-commit/socrabytes/youtube-digest?style=flat&labelColor=grey) ![Stars](https://img.shields.io/github/stars/socrabytes/youtube-digest?style=flat&labelColor=grey)
+
+<p align="center">
+  <a href="https://github.com/socrabytes/youtube-digest" target="_blank">
+    <img src="assets/ytd-demoGIF.gif" width="600px" alt="Demo of YouTube Digest" />
+  </a>
+</p>
+
+> **Tech Stack:** `Next.js 15` • `FastAPI` • `PostgreSQL` • `OpenAI` • `Docker`
+
+- 🧠 GPT-generated summaries with token tracking
+- 📦 Background workers and task queues
+- 📺 Optimized UX for rapid content skimming
+
+---
+
+### 🌐 [Personal Website](https://socrabytes.github.io) 
+*My personal portfolio and technical blog, built for performance and maintainability.*
+
+[![Code](https://img.shields.io/badge/GitHub-Repo-blue?style=flat&logo=github)](https://github.com/socrabytes/socrabytes.github.io) [![Live Site](https://img.shields.io/badge/Live%20Site-green?style=flat&logo=rocket)](https://socrabytes.github.io) ![Last Commit](https://img.shields.io/github/last-commit/socrabytes/socrabytes.github.io?style=flat&labelColor=grey) ![Stars](https://img.shields.io/github/stars/socrabytes/socrabytes.github.io?style=flat&labelColor=grey)
+<p align="center">
+  <a href="https://socrabytes.github.io" target="_blank">
+    <img src="assets/website-preview-16x9.png" width="600px" alt="Preview of socrabytes.github.io site" />
+  </a>
+</p>
+
+> **Tech Stack:** `Hugo` • `GitHub Actions` • `GitHub Pages`
+
+- ⚡ Lightning-fast static portfolio & blog
+- 🧰 Fully version-controlled content pipeline
+- 🎨 Designed for showcasing DevOps + AI notes
 
 ## 📊 Stats and Contributions
 
@@ -114,19 +161,11 @@ if __name__ == "__main__":
 </table>
 
 
+## 📫  Let’s Connect
 
+Whether you're building something ambitious or exploring new ideas, feel free to reach out. You can connect with me here:
 
-<!--
-**socrabytes/socrabytes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💼 [LinkedIn](https://linkedin.com/in/socrateslopez)
+- 🌐 [Website](https://socrabytes.github.io)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Don't forget to ⭐ my projects if you find them helpful!
