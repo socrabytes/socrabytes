@@ -2,7 +2,15 @@
 
 `🛠️ Systems-minded Engineer | ☁️ Cloud-Native Thinker | 🧠 Infra-Aware AI Builder`
 
+<div align="center">
+
+**[Projects](#-featured-projects)** • **[Tech Stack](#-languages-and-tools)** • **[Stats](#-stats-and-contributions)** • **[Connect](#-lets-connect)**
+
+</div>
+
 I build automated systems, scale cloud-native infrastructure, and connect DevOps to AI-driven workflows.
+
+**Core Skills:** `Kubernetes` • `CI/CD` • `Cloud Architecture` • `Python` • `TypeScript` • `LLM Integration`
 
 - 🔭 **Current Focus:**
   - Improving resilience and performance in *CI/CD pipelines* and *Kubernetes deployments*
@@ -28,23 +36,22 @@ greet()
 ```
 
 <!-- Social badges section -->
+<div align="center">
 
-<p align="center">
-  <a href="https://socrabytes.github.io">
-    <img alt="Website Live" title="Visit my website" src="https://custom-icon-badges.demolab.com/website?url=https%3A%2F%2Fsocrabytes.github.io&up_message=Live&down_color=e1e7ec&style=plastic&logo=globe&logoSize=auto&labelColor=3caea3&color=a8eec1&link=https%3A%2F%2Fsocrabytes.github.io%2F"/></a>
-  <a href="https://github.com/socrabytes?tab=followers">
-    <img alt="GitHub Followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/socrabytes?style=plastic&logo=user-plus&logoSource=feather&logoSize=auto&label=Follow&labelColor=6175de&color=d4def8&link=https%3A%2F%2Fgithub.com%2Fsocrabytes%3Ftab%3Dfollowers"/></a>
-  <a href="https://github.com/socrabytes?tab=repositories&sort=stargazers">
-    <img alt="Total stars across all repositories" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/socrabytes?style=plastic&logo=stars&logoSize=auto&logoColor=fdf3d7&labelColor=f4ca64&color=fdf3d7&link=https%3A%2F%2Fgithub.com%2Fsocrabytes%3Ftab%3Drepositories%26sort%3Dstargazers"/></a>
-  <a href="https://github.com/socrabytes">
-    <img alt="Profile views" title="Total Profile Views" src="https://komarev.com/ghpvc/?username=socrabytes&color=b0b0b0&style=plastic&label=VIEWS&abbreviated=true"/></a>
-  <a href="https://www.linkedin.com/in/socrateslopez/">
-    <img alt="LinkedIn" title="Connect with me on LinkedIn" src="https://img.shields.io/badge/%2Fsocrateslopez-blue?style=plastic&logo=linkedin&logoSize=auto&labelColor=3183c8&color=3183c8&link=%22https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsocrateslopez%2F%22"/></a>
-</p>
+[![Website](https://img.shields.io/badge/Website-Live-3caea3?style=flat-square&logo=globe)](https://socrabytes.github.io)
+[![GitHub](https://img.shields.io/github/followers/socrabytes?label=Follow&style=flat-square&logo=github&color=6175de)](https://github.com/socrabytes?tab=followers)
+[![Stars](https://img.shields.io/github/stars/socrabytes?style=flat-square&logo=github&color=f4ca64&label=Stars)](https://github.com/socrabytes?tab=repositories&sort=stargazers)
+[![Views](https://komarev.com/ghpvc/?username=socrabytes&style=flat-square&color=b0b0b0&label=Views)](https://github.com/socrabytes)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-socrateslopez-3183c8?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/socrateslopez/)
+
+</div>
 
 <!-- Languages & Tools -->
 
 ## <img src="assets/developer.gif" width="40px"> Languages and Tools
+
+<details>
+<summary><b>🧰 Click to view my tech stack</b></summary>
 
 ### Infrastructure & DevOps:
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
@@ -81,6 +88,7 @@ greet()
 <img align="left" alt="Hugo" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hugo/hugo-original.svg"/>
 
 <br clear="left"/>
+</details>
 
 <!-- Featured Projects -->
 
@@ -90,7 +98,10 @@ greet()
 
 *A full-stack AI-driven summarizer for YouTube videos.*
 
-[![Code](https://img.shields.io/badge/GitHub-Repo-blue?style=flat&logo=github)](https://github.com/socrabytes/youtube-digest) ![Last Commit](https://img.shields.io/github/last-commit/socrabytes/youtube-digest?style=flat&labelColor=grey) ![Stars](https://img.shields.io/github/stars/socrabytes/youtube-digest?style=flat&labelColor=grey)
+[![Code](https://img.shields.io/badge/GitHub-Repo-4078c0?style=flat-square&logo=github)](https://github.com/socrabytes/youtube-digest) [![Last Commit](https://img.shields.io/github/last-commit/socrabytes/youtube-digest?style=flat-square&logo=git&color=6e7781)](https://github.com/socrabytes/youtube-digest/commits) [![Stars](https://img.shields.io/github/stars/socrabytes/youtube-digest?style=flat-square&logo=github&color=f1e05a)](https://github.com/socrabytes/youtube-digest/stargazers)
+
+<details>
+<summary><b>📋 Project Details</b></summary>
 
 <p align="center">
   <a href="https://github.com/socrabytes/youtube-digest" target="_blank">
@@ -103,13 +114,18 @@ greet()
 - 🧠 GPT-generated summaries with token tracking
 - 📦 Background workers and task queues
 - 📺 Optimized UX for rapid content skimming
+</details>
 
 ---
 
 ### 🌐 [Personal Website](https://socrabytes.github.io) 
 *My personal portfolio and technical blog, built for performance and maintainability.*
 
-[![Code](https://img.shields.io/badge/GitHub-Repo-blue?style=flat&logo=github)](https://github.com/socrabytes/socrabytes.github.io) [![Live Site](https://img.shields.io/badge/Live%20Site-green?style=flat&logo=rocket)](https://socrabytes.github.io) ![Last Commit](https://img.shields.io/github/last-commit/socrabytes/socrabytes.github.io?style=flat&labelColor=grey) ![Stars](https://img.shields.io/github/stars/socrabytes/socrabytes.github.io?style=flat&labelColor=grey)
+[![Code](https://img.shields.io/badge/GitHub-Repo-4078c0?style=flat-square&logo=github)](https://github.com/socrabytes/socrabytes.github.io) [![Live Site](https://img.shields.io/badge/Live-Site-2ea44f?style=flat-square&logo=safari)](https://socrabytes.github.io) [![Last Commit](https://img.shields.io/github/last-commit/socrabytes/socrabytes.github.io?style=flat-square&logo=git&color=6e7781)](https://github.com/socrabytes/socrabytes.github.io/commits) [![Stars](https://img.shields.io/github/stars/socrabytes/socrabytes.github.io?style=flat-square&logo=github&color=f1e05a)](https://github.com/socrabytes/socrabytes.github.io/stargazers)
+
+<details>
+<summary><b>📋 Project Details</b></summary>
+
 <p align="center">
   <a href="https://socrabytes.github.io" target="_blank">
     <img src="assets/website-preview-16x9.png" width="600px" alt="Preview of socrabytes.github.io site" />
@@ -121,6 +137,7 @@ greet()
 - ⚡ Lightning-fast static portfolio & blog
 - 🧰 Fully version-controlled content pipeline
 - 🎨 Designed for showcasing DevOps + AI notes
+</details>
 
 ## 📊 Stats and Contributions
 
@@ -161,11 +178,17 @@ greet()
 </table>
 
 
-## 📫  Let’s Connect
+## 📫 Let's Connect
 
-Whether you're building something ambitious or exploring new ideas, feel free to reach out. You can connect with me here:
+<div align="center">
 
-- 💼 [LinkedIn](https://linkedin.com/in/socrateslopez)
-- 🌐 [Website](https://socrabytes.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/socrateslopez)
+[![Website](https://img.shields.io/badge/Website-Visit-3caea3?style=flat-square&logo=safari)](https://socrabytes.github.io)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github)](https://github.com/socrabytes?tab=followers)
 
+</div>
+
+<p align="center">
+Whether you're building something ambitious or exploring new ideas, feel free to reach out.<br>
 Don't forget to ⭐ my projects if you find them helpful!
+</p>
